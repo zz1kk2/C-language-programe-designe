@@ -1,2 +1,2 @@
 # C-language-programe-designe
-C 语言程序设计  何钦铭 颜晖 
+the first time beacuse you lack lot of experience ,you will lost your confidence in you meeting esasy problem.i requst you to try some easy C program in the book
